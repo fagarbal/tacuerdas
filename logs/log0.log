@@ -1,0 +1,19 @@
+[4mRunning "develop:server" (develop) task[24m
+[36m
+[grunt-develop] > [39mstarted application "app.js".
+[4mRunning "watch" task[24m
+Waiting...
+[36m
+[grunt-develop] > [39m[0mGET / [32m200 [0m122.784 ms - 379[0m
+[36m
+[grunt-develop] > [39m[0mGET /css/style.css [32m200 [0m31.922 ms - 110[0m
+[31m>> [39mapplication exited with signal SIGKILL
+[36m
+[grunt-develop] > [39mstarted application "app.js".
+[32mDone, without errors.[39m
+
+
+Execution Time (2015-01-05 09:00:28 UTC)
+watch          2m 7.7s  ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 99%
+Total 2m 8.9s
+
