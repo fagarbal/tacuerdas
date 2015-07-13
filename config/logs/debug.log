@@ -1,0 +1,19 @@
+2015-01-30T22:30:19.790Z - info: Connected to Database tacuerdas-development
+2015-01-30T22:33:58.141Z - warn: findUsersByQuery empty
+2015-03-11T23:21:29.585Z - info: Connected to Database tacuerdas-development
+2015-03-11T23:22:31.089Z - info: Connected to Database tacuerdas-development
+2015-03-11T23:25:58.638Z - info: Connected to Database tacuerdas-development
+2015-03-11T23:26:07.536Z - warn: Not Autoriced id ( Anonimous ) path : /api/users
+2015-03-11T23:26:58.642Z - info: Connected to Database tacuerdas-development
+2011-01-01T12:07:20.715Z - info: Connected to Database tacuerdas-development
+2015-05-23T12:20:06.871Z - info: Connected to Database tacuerdas-development
+2015-05-23T12:20:24.194Z - info: Connected to Database tacuerdas-development
+2015-05-23T12:51:04.514Z - info: Connected to Database tacuerdas-development
+2015-05-23T12:56:34.888Z - info: Connected to Database tacuerdas-development
+2015-05-23T12:59:08.670Z - error: createLogin ( 5560799c57cc4531044c477a ) %s name=MongoError, err=E11000 duplicate key error index: tacuerdas-development.logins.$email_1  dup key: { : "fagarbal@gmail.com" }, code=11000, n=0, connectionId=15, ok=1
+2015-05-23T12:59:57.501Z - info: Connected to Database tacuerdas-development
+2015-05-23T13:55:28.697Z - info: Connected to Database tacuerdas-development
+2015-07-13T01:02:09.666Z - info: Connected to Database tacuerdas-development
+2015-07-13T01:05:14.933Z - info: Connected to Database tacuerdas-development
+2015-07-13T01:06:03.518Z - info: Connected to Database tacuerdas-development
+2015-07-13T01:06:37.865Z - warn: isAdmin ( 55a30e50626453134c5f3a85 ) Not Admin
