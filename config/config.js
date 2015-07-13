@@ -8,9 +8,9 @@ var path      = require('path'),
     mongoose  = require('mongoose'),
     rootPath  = path.normalize('/Users/fabio/Documents/tacuerdas-development'),
     rootPath  = path.normalize('/mnt/sdcard/server'),
-    logger    = require('./logger'),fdfds
+    logger    = require('./logger'),
     env       = process.env.NODE_ENV || 'development';
-fds
+
 var privateKey  = fs.readFileSync('ssl/key.pem');
 var certificate = fs.readFileSync('ssl/crt.pem');
 var caKey       = [fs.readFileSync('ssl/ca2.pem'), fs.readFileSync('ssl/ca3.pem')];
