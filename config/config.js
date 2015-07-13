@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 /// <reference path="../typings/node/node.d.ts"/>
+=======
+>>>>>>> 577a2527b30699446785b62d07097a35f051d5ce
 /*jslint node: true, nomen: true*/
 "use strict";
 
@@ -6,7 +9,11 @@ var path      = require('path'),
     fs        = require('fs'),
     constants = require('constants'),
     mongoose  = require('mongoose'),
+<<<<<<< HEAD
     rootPath  = path.normalize('/Users/fabio/Documents/tacuerdas-development'),
+=======
+    rootPath  = path.normalize('/mnt/sdcard/server'),
+>>>>>>> 577a2527b30699446785b62d07097a35f051d5ce
     logger    = require('./logger'),
     env       = process.env.NODE_ENV || 'development';
 
