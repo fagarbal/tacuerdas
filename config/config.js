@@ -7,7 +7,6 @@ var path      = require('path'),
     constants = require('constants'),
     mongoose  = require('mongoose'),
     rootPath  = path.normalize('/Users/fabio/Documents/tacuerdas-development'),
-    rootPath  = path.normalize('/mnt/sdcard/server'),
     logger    = require('./logger'),
     env       = process.env.NODE_ENV || 'development';
 

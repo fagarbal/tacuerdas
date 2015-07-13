@@ -30,14 +30,14 @@
   "main": "Gruntfile.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fagarbal/recuerdo.git"
+    "url": "git+https://github.com/fagarbal/tacuerdas.git"
   },
   "author": "Fabio Garcia Balbuena",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fagarbal/recuerdo/issues"
+    "url": "https://github.com/fagarbal/tacuerdas/issues"
   },
-  "homepage": "https://github.com/fagarbal/recuerdo",
+  "homepage": "https://github.com/fagarbal/tacuerdas",
   "directories": {
     "test": "test"
   }
