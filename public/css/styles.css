@@ -2,7 +2,7 @@ body {
     background-color: #0B3E47;
    
 }
-#contenedor {
+.container {
     padding: 0 10px ;
     margin: 150px auto;
 }
@@ -43,6 +43,13 @@ label {
     -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 10px rgba(255, 65, 54, 0.9);
     box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 10px rgba(255, 65, 54, 0.9);
 }
+.black{
+    color:black;
+}
+.recuerdos{
+    width: 60%;
+    margin: 0 auto;
+}
 @media (max-width: 767px) {
     #contenedor{
         margin: 30px auto;
@@ -69,5 +76,6 @@ label {
     
     #opciones{
         margin-top: 30px;
+    }
     
 }

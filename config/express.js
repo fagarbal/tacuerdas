@@ -13,6 +13,7 @@ var express = require('express'),
     methodOverride = require('method-override');
 
 module.exports = function (app, config) {
+    
     app.use(function (req, res, next) {
         if (!/https/.test(req.protocol)) {
             res.redirect("https://" + req.headers.host + req.url);
@@ -21,8 +22,9 @@ module.exports = function (app, config) {
             return next();
         }
     });
+    
     app.disable('x-powered-by');
-    app.use(favicon(config.root + '/public/favicon.ico'));
+    app.use(favicon(config.root + '/public/img/favicon.ico'));
     app.use(express.static(config.root + '/public', { maxAge: 86400000 }));
     app.use(cookieParser('tacuerdasonotacuerdas'));
     app.use(compression({ threshold: 512 }));

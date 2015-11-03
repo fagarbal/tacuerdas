@@ -57,6 +57,30 @@ module.exports = function (mongoose) {
         });
     };
     
+    LoginSchema.statics.updateLoginByUserId = function (id, param, callback) {
+        this.findOne({ userId : id }, function (err, login) {
+            if (err || !login) {
+                logger.error('updateLoginByUserId ( %s ) %s', login._id, err);
+                callback(err);
+            } else {
+                
+                login.user     = param.user;
+                login.password = param.password;
+                login.email    = param.email;
+                
+                login.save(function (err) {
+                    if (err) {
+                        logger.error('updateLoginByUserId ( %s ) %s', login._id, err);
+                        callback(err);
+                    } else {
+                        logger.info('updateLoginByUserId ( %s ) Success', login._id);
+                        callback(err, this);
+                    }
+                });
+            }
+        });
+    };
+    
     LoginSchema.pre('save', function (next) {
         var login = this;
         if (!login.isModified('password')) {

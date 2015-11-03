@@ -26,3 +26,1149 @@
 2015-07-13T02:23:09.059Z - info: Connected to Database tacuerdas-development
 2015-07-13T02:23:25.726Z - info: Connected to Database tacuerdas-development
 2015-07-13T02:24:42.441Z - info: Connected to Database tacuerdas-development
+2015-07-13T02:28:00.622Z - info: Connected to Database tacuerdas-development
+2015-07-13T02:28:28.167Z - info: Connected to Database tacuerdas-development
+2015-07-13T02:32:33.613Z - info: Connected to Database tacuerdas-development
+2015-07-20T02:45:30.147Z - info: Connected to Database tacuerdas-development
+2015-07-20T02:51:41.163Z - info: Connected to Database tacuerdas-development
+2015-07-20T02:54:58.400Z - info: Connected to Database tacuerdas-development
+2015-07-20T03:02:18.101Z - info: Connected to Database tacuerdas-development
+2015-07-20T03:02:34.564Z - warn: Not Autoriced id ( Anonimous ) path : /api/users
+2015-07-20T05:16:22.116Z - info: Connected to Database tacuerdas-development
+2015-10-05T23:32:13.563Z - info: Connected to Database tacuerdas-development
+2015-10-05T23:33:52.909Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/561308a948bc82ee04d8fc22
+2015-10-05T23:33:57.057Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/561308a948bc82ee04d8fc22
+2015-10-05T23:38:26.429Z - info: Connected to Database tacuerdas-development
+2015-10-08T21:30:49.125Z - info: Connected to Database tacuerdas-development
+2015-10-29T21:54:39.972Z - info: Connected to Database tacuerdas-development
+2015-10-29T21:55:18.950Z - warn: Not Autoriced id ( Anonimous ) path : /api/users
+2015-10-29T21:56:13.439Z - warn: Not Autoriced id ( Anonimous ) path : /api/users
+2015-10-29T21:57:40.366Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/56329647a6d787f2134dcf46
+2015-10-29T21:57:49.100Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/56329647a6d787f2134dcf46
+2015-10-29T21:59:30.908Z - warn: findUsersByQuery Void
+2015-10-29T21:59:40.907Z - warn: findUsersByQuery empty
+2015-10-29T22:06:59.625Z - info: Connected to Database tacuerdas-development
+2015-10-29T22:07:16.204Z - warn: isAdmin ( 56329647a6d787f2134dcf46 ) Not Admin
+2015-10-29T22:19:17.906Z - warn: isAdmin ( 563295f5a6d787f2134dcf41 ) Not Admin
+2015-10-29T22:25:13.126Z - info: Connected to Database tacuerdas-development
+2015-10-29T22:26:27.104Z - info: Connected to Database tacuerdas-development
+2015-10-29T22:26:30.136Z - error: updateSettingByUserId ( 563295f5a6d787f2134dcf42 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-10-29T22:26:54.702Z - info: updateSettingByUserId ( %s ) Success _bsontype=ObjectID, id=V2õ¦×òMÏB
+2015-10-29T22:43:19.709Z - info: Connected to Database tacuerdas-development
+2015-10-29T22:43:22.927Z - error: updateSettingByUserId ( 563295f5a6d787f2134dcf42 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-10-29T22:43:43.341Z - info: updateSettingByUserId ( %s ) Success _bsontype=ObjectID, id=V2õ¦×òMÏB
+2015-10-29T22:48:18.358Z - info: Connected to Database tacuerdas-development
+2015-10-29T22:49:32.572Z - info: Connected to Database tacuerdas-development
+2015-10-29T22:50:29.911Z - info: Connected to Database tacuerdas-development
+2015-10-29T22:50:32.022Z - info: updateSettingByUserId ( %s ) Success _bsontype=ObjectID, id=V2õ¦×òMÏB
+2015-10-29T22:51:42.197Z - info: Connected to Database tacuerdas-development
+2015-10-29T22:51:48.018Z - error: updateSettingByUserId ( 563295f5a6d787f2134dcf42 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-10-29T22:52:11.190Z - error: updateSettingByUserId ( 563295f5a6d787f2134dcf42 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-10-29T22:52:17.065Z - error: updateSettingByUserId ( 563295f5a6d787f2134dcf42 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-10-29T22:52:21.364Z - error: updateSettingByUserId ( 563295f5a6d787f2134dcf42 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-10-29T22:52:26.135Z - info: updateSettingByUserId ( %s ) Success _bsontype=ObjectID, id=V2õ¦×òMÏB
+2015-10-31T15:16:16.649Z - info: Connected to Database tacuerdas-development
+2015-10-31T15:42:37.638Z - info: Connected to Database tacuerdas-development
+2015-10-31T15:42:44.018Z - warn: isAdmin ( 563295f5a6d787f2134dcf41 ) Not Admin
+2015-10-31T15:46:00.951Z - warn: isAdmin ( 563295f5a6d787f2134dcf41 ) Not Admin
+2015-10-31T15:48:02.857Z - info: Connected to Database tacuerdas-development
+2015-10-31T15:48:13.783Z - info: Connected to Database tacuerdas-development
+2015-10-31T15:48:18.684Z - warn: isAdmin ( 563295f5a6d787f2134dcf41 ) Not Admin
+2015-10-31T15:49:40.591Z - info: Connected to Database tacuerdas-development
+2015-10-31T15:50:10.632Z - info: Connected to Database tacuerdas-development
+2015-10-31T15:50:50.779Z - info: Connected to Database tacuerdas-development
+2015-10-31T15:51:47.019Z - info: Connected to Database tacuerdas-development
+2015-10-31T15:52:33.957Z - info: Connected to Database tacuerdas-development
+2015-10-31T15:56:04.773Z - info: Connected to Database tacuerdas-development
+2015-10-31T15:56:22.322Z - info: Connected to Database tacuerdas-development
+2015-10-31T16:01:50.852Z - info: Connected to Database tacuerdas-development
+2015-10-31T16:07:12.673Z - info: Connected to Database tacuerdas-development
+2015-10-31T16:07:28.281Z - info: Connected to Database tacuerdas-development
+2015-10-31T16:08:20.173Z - info: Connected to Database tacuerdas-development
+2015-10-31T16:08:51.897Z - info: Connected to Database tacuerdas-development
+2015-10-31T16:09:10.277Z - info: Connected to Database tacuerdas-development
+2015-10-31T16:10:32.385Z - info: Connected to Database tacuerdas-development
+2015-10-31T16:13:55.470Z - info: Connected to Database tacuerdas-development
+2015-10-31T16:14:44.425Z - info: Connected to Database tacuerdas-development
+2015-10-31T16:15:05.573Z - info: Connected to Database tacuerdas-development
+2015-10-31T16:15:55.005Z - info: Connected to Database tacuerdas-development
+2015-10-31T16:16:36.558Z - warn: Not Autoriced id ( Anonimous ) path : /api/users
+2015-10-31T16:16:58.885Z - warn: Not Autoriced id ( Anonimous ) path : /api/users
+2015-10-31T16:18:28.942Z - warn: Not Autoriced id ( Anonimous ) path : /api/users
+2015-10-31T16:34:01.956Z - error: createSetting ( 5634ed796f8a49e1172a08ee ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-10-31T16:34:13.904Z - error: createLogin ( 5634ed856f8a49e1172a08f1 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-10-31T16:34:41.263Z - error: createLogin ( 5634eda16f8a49e1172a08f4 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-10-31T16:34:58.891Z - error: createLogin ( 5634edb26f8a49e1172a08f7 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-10-31T16:35:15.318Z - error: createLogin ( 5634edc36f8a49e1172a08fa ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "fabio" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:37:01.108Z - error: createLogin ( 5634ee2d6f8a49e1172a0901 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "fagarbal" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:37:08.122Z - error: createLogin ( 5634ee346f8a49e1172a0904 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "fagarbal" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:38:19.543Z - error: createLogin ( 5634ee7b6f8a49e1172a0907 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "fabio" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:38:29.398Z - error: createLogin ( 5634ee856f8a49e1172a090a ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "fabio" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:41:54.677Z - error: createLogin ( 5634ef526f8a49e1172a090d ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "fabio" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:41:57.444Z - error: createLogin ( 5634ef556f8a49e1172a0910 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "fabio" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:42:21.053Z - error: createLogin ( 5634ef6c6f8a49e1172a0913 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "fabio" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:42:59.016Z - error: createLogin ( 5634ef926f8a49e1172a0916 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "fabio" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:43:21.528Z - error: createLogin ( 5634efa96f8a49e1172a0919 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "fabio" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:44:10.143Z - error: createLogin ( 5634efda6f8a49e1172a091c ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "fabio" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:44:21.950Z - error: createLogin ( 5634efe56f8a49e1172a091f ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "fabio" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:44:36.752Z - error: createLogin ( 5634eff46f8a49e1172a0922 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$email_1 dup key: { : "fagarbal@gmail.com" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:44:54.601Z - error: createLogin ( 5634f0066f8a49e1172a0929 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "marcos" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:45:26.513Z - error: createLogin ( 5634f0266f8a49e1172a0930 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:45:38.368Z - error: createLogin ( 5634f0326f8a49e1172a0933 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:46:57.001Z - error: createLogin ( 5634f0806f8a49e1172a093a ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:47:20.084Z - error: createLogin ( 5634f0986f8a49e1172a093d ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:47:48.013Z - error: createLogin ( 5634f0b36f8a49e1172a0940 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:48:08.637Z - error: createLogin ( 5634f0c86f8a49e1172a0943 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:48:41.759Z - error: createLogin ( 5634f0e96f8a49e1172a0946 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:48:57.743Z - error: createLogin ( 5634f0f96f8a49e1172a0949 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:50:29.168Z - error: createLogin ( 5634f1556f8a49e1172a0950 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:51:18.577Z - error: createLogin ( 5634f1866f8a49e1172a0957 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:56:36.042Z - error: createLogin ( 5634f2c36f8a49e1172a095a ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:57:04.912Z - error: createLogin ( 5634f2e06f8a49e1172a095d ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T16:59:26.201Z - error: createLogin ( 5634f36e6f8a49e1172a0960 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T17:03:38.662Z - error: createLogin ( 5634f46a6f8a49e1172a0963 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T17:07:11.827Z - error: createLogin ( 5634f53f6f8a49e1172a0966 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaaaa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T17:07:50.618Z - error: createLogin ( 5634f5666f8a49e1172a096d ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaaasa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T17:09:58.736Z - error: createLogin ( 5634f5e66f8a49e1172a0970 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaaasa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-10-31T17:44:27.051Z - error: createLogin ( 5634fdfa6f8a49e1172a0973 ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "holaaaaasa" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-11-02T18:54:33.907Z - info: Connected to Database tacuerdas-development
+2015-11-02T18:56:01.139Z - info: Connected to Database tacuerdas-development
+2015-11-02T18:56:21.266Z - info: Connected to Database tacuerdas-development
+2015-11-02T18:56:42.780Z - info: Connected to Database tacuerdas-development
+2015-11-02T19:57:48.497Z - info: Connected to Database tacuerdas-development
+2015-11-02T19:58:05.313Z - info: Connected to Database tacuerdas-development
+2015-11-02T20:04:26.350Z - info: Connected to Database tacuerdas-development
+2015-11-02T20:04:39.904Z - info: Connected to Database tacuerdas-development
+2015-11-02T20:42:16.636Z - info: Connected to Database tacuerdas-development
+2015-11-02T20:43:57.603Z - info: Connected to Database tacuerdas-development
+2015-11-02T20:52:00.420Z - info: Connected to Database tacuerdas-development
+2015-11-02T20:58:01.270Z - info: Connected to Database tacuerdas-development
+2015-11-02T21:01:17.663Z - info: Connected to Database tacuerdas-development
+2015-11-02T21:20:26.878Z - info: Connected to Database tacuerdas-development
+2015-11-02T21:25:26.402Z - info: Connected to Database tacuerdas-development
+2015-11-02T21:37:11.486Z - info: Connected to Database tacuerdas-development
+2015-11-02T21:40:02.433Z - info: Connected to Database tacuerdas-development
+2015-11-02T21:41:20.991Z - info: Connected to Database tacuerdas-development
+2015-11-02T21:43:20.967Z - info: Connected to Database tacuerdas-development
+2015-11-02T21:52:17.963Z - warn: Not Autoriced id ( Anonimous ) path : /api/users
+2015-11-02T21:54:02.092Z - error: createLogin ( 5637db7abe1042c21d9c75b4 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T21:57:46.810Z - error: createSetting ( 5637dc5abe1042c21d9c75bd ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T21:57:52.065Z - error: createLogin ( 5637dc60be1042c21d9c75c0 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T21:57:55.888Z - error: createLogin ( 5637dc63be1042c21d9c75c3 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T21:58:06.691Z - error: createLogin ( 5637dc6ebe1042c21d9c75c6 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T21:58:16.678Z - error: createSetting ( 5637dc78be1042c21d9c75c8 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T21:59:14.292Z - error: createLogin ( 5637dcb2be1042c21d9c75cb ) %s MongoError: E11000 duplicate key error index: tacuerdas-development.logins.$user_1 dup key: { : "isla" }
+    at Object.toError (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/utils.js:114:11)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection/core.js:116:29
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1197:7
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/db.js:1905:9
+    at Server.Base._callHandler (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/base.js:453:41)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:488:18
+    at MongoReply.parseBody (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js:68:5)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:446:20)
+    at emit (events.js:107:17)
+    at null.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:207:13)
+    at emit (events.js:110:17)
+    at Socket.<anonymous> (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:440:22)
+    at Socket.emit (events.js:107:17)
+    at readableAddChunk (_stream_readable.js:163:16)
+    at Socket.Readable.push (_stream_readable.js:126:10)
+    at TCP.onread (net.js:538:20)
+2015-11-02T22:00:23.572Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:03:10.686Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:10:09.827Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:10:25.469Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:11:40.018Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:11:54.255Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:12:05.341Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:12:38.099Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:12:51.310Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:12:53.512Z - error: createSetting ( 5637dfe558bb2b0e1e813bb5 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T22:15:30.055Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:15:34.839Z - error: createSetting ( 5637e08635a61b111ea2741e ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T22:16:10.564Z - error: createSetting ( 5637e0aa35a61b111ea27420 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T22:16:10.658Z - error: createSetting ( 5637e0aa35a61b111ea27422 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T22:19:14.895Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:19:20.071Z - error: createSetting ( 5637e168a0bb35151e3fcafa ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T22:19:27.946Z - error: createSetting ( 5637e16fa0bb35151e3fcafc ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T22:19:43.251Z - error: createLogin ( 5637e17fa0bb35151e3fcaff ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T22:20:25.799Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:20:27.974Z - error: createLogin ( 5637e1ab30cef3191ea43694 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T22:20:40.772Z - error: createLogin ( 5637e1b830cef3191ea43697 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T22:31:21.526Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:32:38.970Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:35:15.736Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:38:31.631Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:42:17.637Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:42:58.960Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:43:09.440Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:44:22.697Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:44:37.290Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:45:22.278Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:48:27.065Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:52:36.650Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:53:48.112Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:53:57.955Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:54:58.487Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:55:16.475Z - info: Connected to Database tacuerdas-development
+2015-11-02T22:56:54.065Z - info: Connected to Database tacuerdas-development
+2015-11-02T23:00:32.944Z - info: Connected to Database tacuerdas-development
+2015-11-02T23:10:52.264Z - info: Connected to Database tacuerdas-development
+2015-11-02T23:10:54.099Z - info: Connected to Database tacuerdas-development
+2015-11-02T23:10:55.560Z - info: Connected to Database tacuerdas-development
+2015-11-02T23:10:59.904Z - info: Connected to Database tacuerdas-development
+2015-11-02T23:11:51.739Z - error: createLogin ( 5637edb7f3c2c17c1e4a6389 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T23:12:38.284Z - error: createLogin ( 5637ede6f3c2c17c1e4a638c ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-02T23:19:53.262Z - info: Connected to Database tacuerdas-development
+2015-11-02T23:20:31.922Z - info: Connected to Database tacuerdas-development
+2015-11-02T23:23:49.437Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:23:59.808Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:25:09.209Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:25:55.296Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:25:55.796Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:26:24.035Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:26:24.300Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:28:28.611Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:28:29.175Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:28:56.995Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:28:57.569Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:29:17.020Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:29:18.386Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:29:19.062Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:31:07.150Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:31:07.504Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:31:21.483Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:31:25.226Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:31:31.020Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:31:33.900Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:43:04.145Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:55:17.646Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:58:27.631Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-02T23:58:27.969Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T00:00:28.874Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T00:00:29.186Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T00:24:10.142Z - info: Connected to Database tacuerdas-development
+2015-11-03T00:41:05.787Z - info: Connected to Database tacuerdas-development
+2015-11-03T00:51:48.355Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T00:51:48.469Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T01:01:54.333Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T01:01:55.516Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T01:03:04.360Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T01:04:31.819Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T01:04:32.636Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T01:04:45.816Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T01:04:58.761Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T01:04:59.136Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T01:09:05.672Z - info: Connected to Database tacuerdas-development
+2015-11-03T01:09:24.725Z - info: Connected to Database tacuerdas-development
+2015-11-03T01:09:57.490Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:24:44.765Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:25:43.323Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:28:08.638Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:28:28.766Z - error: createMemory ( 56381bcc6ce0e55620430175 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T02:29:06.929Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:29:11.508Z - error: createMemory ( 56381bf738de125a20c7a36e ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T02:29:32.108Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:29:39.055Z - error: createMemory ( 56381c135b00a85d20bc8762 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T02:30:36.400Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:31:37.152Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:33:26.986Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:35:41.279Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:35:56.731Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:36:47.971Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:37:07.283Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:38:17.743Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:49:12.313Z - info: Connected to Database tacuerdas-development
+2015-11-03T02:49:35.606Z - info: Connected to Database tacuerdas-development
+2015-11-03T03:49:25.232Z - info: Connected to Database tacuerdas-development
+2015-11-03T03:51:53.908Z - info: Connected to Database tacuerdas-development
+2015-11-03T04:15:36.787Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T04:15:36.788Z - warn: Not Autoriced id ( Anonimous ) path : /api/memories
+2015-11-03T04:15:36.790Z - warn: Not Autoriced id ( Anonimous ) path : /api/memories
+2015-11-03T04:15:36.801Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T04:15:42.096Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T04:15:42.100Z - warn: Not Autoriced id ( Anonimous ) path : /api/memories
+2015-11-03T04:15:42.141Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T04:15:42.143Z - warn: Not Autoriced id ( Anonimous ) path : /api/memories
+2015-11-03T04:18:25.352Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T04:18:25.353Z - warn: Not Autoriced id ( Anonimous ) path : /api/memories
+2015-11-03T04:18:25.369Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T04:18:25.372Z - warn: Not Autoriced id ( Anonimous ) path : /api/memories
+2015-11-03T04:19:53.652Z - info: Connected to Database tacuerdas-development
+2015-11-03T04:26:02.453Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T04:26:02.461Z - warn: Not Autoriced id ( Anonimous ) path : /api/memories
+2015-11-03T04:26:49.325Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T04:26:49.329Z - warn: Not Autoriced id ( Anonimous ) path : /api/memories
+2015-11-03T04:27:14.482Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T04:28:10.038Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T04:29:10.243Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T04:36:39.142Z - warn: Not Autoriced id ( Anonimous ) path : /api/users/me
+2015-11-03T04:56:38.459Z - error: createMemory ( 56383e865c7eea042206ece7 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T05:00:01.139Z - error: createMemory ( 56383f515c7eea042206ecea ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T05:01:23.932Z - error: createMemory ( 56383fa35c7eea042206eceb ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T05:01:48.310Z - error: createMemory ( 56383fbc5c7eea042206ecec ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T05:02:17.314Z - error: createMemory ( 56383fd95c7eea042206eced ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T05:03:54.794Z - error: createMemory ( 5638403a5c7eea042206ecee ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T05:04:16.633Z - error: createMemory ( 563840505c7eea042206ecef ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T05:04:16.735Z - error: createMemory ( 563840505c7eea042206ecf0 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T05:04:40.847Z - error: createMemory ( 563840685c7eea042206ecf1 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T05:06:14.573Z - error: createMemory ( 563840c65c7eea042206ecf3 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T05:07:48.582Z - error: createMemory ( 563841245c7eea042206ecf4 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T05:08:09.032Z - error: createMemory ( 563841395c7eea042206ecf5 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)
+2015-11-03T05:12:21.890Z - error: createMemory ( 563842355c7eea042206ecf8 ) %s ValidationError: Validation failed
+    at model.Document.invalidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:1027:32)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:976:16
+    at validate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:612:7)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:629:9
+    at Array.forEach (native)
+    at SchemaString.SchemaType.doValidate (/Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/schematype.js:616:19)
+    at /Users/fabio/Documents/tacuerdas-development/node_modules/mongoose/lib/document.js:974:9
+    at process._tickCallback (node.js:355:11)

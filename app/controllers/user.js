@@ -44,9 +44,32 @@ exports.findUserById = function (req, res) {
     });
 };
 
+exports.findMyUser = function (req, res) {
+    User.findUserById(req.user._id, function (err, user) {
+        if (err) {
+            res.status(500).send({ error : err });
+        } else {
+            res.status(200).send(user);
+        }
+    });
+};
+
 
 exports.updateUserBySessionId = function (req, res) {
     Setting.updateSettingByUserId(req.user._id, req.body, function (err) {
+        if (err) {
+            res.status(500).send({ error : err });
+        } else {
+            User.findUserById(req.user._id, function (err, user) {
+                res.status(200).send(user);
+            });
+        }
+    });
+    
+};
+
+exports.updateLoginBySessionId = function (req, res) {
+    Login.updateLoginByUserId(req.user._id, req.body, function (err) {
         if (err) {
             res.status(500).send({ error : err });
         } else {
@@ -69,6 +92,8 @@ exports.updateUserById = function (req, res) {
         }
     });
 };
+
+
 
 exports.createUser = function (req, res) {
     var user = new User(),

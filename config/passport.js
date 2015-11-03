@@ -37,25 +37,25 @@ module.exports = function (app) {
     
 
     app.post('/api/auth', passport.authenticate('local', {
-        successRedirect : '/profile',
+        successRedirect : '/api/auth/success',
         failureRedirect : '/api/auth/error'
     }));
     
     app.get('/api/auth/error', function (req, res) {
         res.send({ error : 'User or password not valid' });
     });
+    
+    app.get('/api/auth/success', function (req, res) {
+        res.send({ error : false });
+    });
 
     app.get('/', function (req, res) {
-        res.sendFile(config.root + '/public/login.html');
-    });
-    
-    app.get('/register', function (req, res) {
-        res.status(200).sendFile(config.root + '/public/register.html');
+        res.sendFile(config.root + '/public/index.html');
     });
 
-    app.get('/logout', function (req, res) {
+    app.get('/api/logout', function (req, res) {
         req.logout();
-        res.redirect("/");
+        res.send({ logout : true });
     });
     return {
         ensureAuthenticated : function (req, res, next) {

@@ -55,13 +55,18 @@ module.exports = function (mongoose, logger) {
             }
         });
     
-    MemorySchema.statics.createMemory = function (user, req, callback) {
+    MemorySchema.statics.createMemory = function (user, param, callback) {
+        try{
+            param.date = new Date(param.date).toISOString()
+        }catch(e){
+            param.date = null;
+        }
         
         var memory = new this({
                 userId : user._id,
-                body : req.body.body,
-                date : req.body.date,
-                privacyRules : req.body.privacy === "" ? req.body.privacy : "nobody"
+                body : param.body,
+                date : param.date,
+                privacyRules : param.privacy === "" ? param.privacy : "nobody"
             });
         return memory.save(function (err) {
             

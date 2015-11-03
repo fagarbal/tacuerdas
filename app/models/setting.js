@@ -68,7 +68,12 @@ module.exports = function (mongoose, logger) {
                 logger.error('updateSettingByUserId ( %s ) %s', setting._id, err);
                 callback(err);
             } else {
-                setting.fullname = param.firstname.trim() + ' ' + param.lastname.trim();
+                if(!param.firstname) param.firstname="";
+                if(!param.lastname) param.lastname="";
+                
+                var isEmptyFullname = param.firstname.trim() == "" || param.lastname.trim() == "";
+                
+                setting.fullname = isEmptyFullname ? null : param.firstname + ' ' + param.lastname;
                 setting.birthday = new Date(param.birthday);
                 setting.city     = param.city;
                 setting.address  = param.address;
@@ -88,11 +93,19 @@ module.exports = function (mongoose, logger) {
         });
     };
     SettingSchema.statics.createSetting = function (param, callback) {
+        if(!param.firstname) param.firstname="";
+        if(!param.lastname) param.lastname="";
+                
+        var isEmptyFullname = param.firstname.trim() == "" || param.lastname.trim() == "";
+        try{
+            param.birthday = new Date(param.birthday).toISOString()
+        }catch(e){
+            param.birthday = null;
+        }
         var setting = new this({
                 userId   : param.userId,
-                fullname : param.firstname.trim() + ' ' + param.lastname.trim(),
-                lastname : param.lastname,
-                birthday : new Date(param.birthday).toISOString(),
+                fullname : isEmptyFullname ? null : param.firstname + ' ' + param.lastname,
+                birthday : param.birthday,
                 city     : param.city,
                 address  : param.address,
                 country  : param.country,

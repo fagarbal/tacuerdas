@@ -21,7 +21,7 @@ models.forEach(function (model) {
 });
 
 /**
-    Load Routes
+    Load Routes 
 **/
 
 var routes = glob.sync(config.root + '/app/routes/*.js');
@@ -29,19 +29,15 @@ routes.forEach(function (route) {
     require(route)(app, express, role);
 });
 
-app.get('/profile', role.ensureAuthenticated, function (req, res) {
-    res.status(200).send('<a href="/logout"> Finalizar sesion</a>');
-});
-
 /**
     Run Server
 **/
 
 app.get('*', function (req, res) {
-    res.redirect('https://www.tacuerdas.com' + req.url);
-}).listen(3000);
+    res.redirect('https://localhost' + req.url);
+}).listen(80);
 
 
 var httpsServer = https.createServer(config.credentials, app);
 tlsSessions(httpsServer);
-httpsServer.listen(4000);
+httpsServer.listen(443);

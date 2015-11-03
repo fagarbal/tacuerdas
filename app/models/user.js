@@ -146,7 +146,8 @@ module.exports = function (mongoose, logger) {
         return mongoose.model('User').findById(id)
             .populate('Login')
             .populate('Setting')
-            .select('Login Setting')
+            .populate('Memories')
+            .select('Login Setting Memories')
             .exec(function (err, user) {
                 if (err) {
                     logger.error('findUserById ( %s ) %s', user._id, err);

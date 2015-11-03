@@ -1,6 +1,6 @@
 /*jslint node: true, nomen: true, es5: true*/
 "use strict";
-module.exports = function (mongoose) {
+module.exports = function (mongoose, logger) {
     var FriendSchema = new mongoose.Schema({
             userId : {
                 type    : mongoose.Schema.Types.ObjectId,
@@ -29,7 +29,7 @@ module.exports = function (mongoose) {
     FriendSchema.statics.findFriendsById = function (id, callback) {
         this.findById(id, function (err, friend) {
             if (err) {
-                console.log(err);
+                logger.error('findFriendsById ( %s ) %s', id, err);
                 return callback(err);
             }
             callback(err, friend.friends);
@@ -45,7 +45,7 @@ module.exports = function (mongoose) {
                 
             friend.save(function (err) {
                 if (err) {
-                    Error.log('error', 'del', ['Delete Friends', friend._id], err);
+                    logger.error('deleteFriendsById ( %s ) %s', friend._id, err);
                     callback(err);
                 } else {
                     callback(err, friend);
@@ -64,7 +64,7 @@ module.exports = function (mongoose) {
                 
                 friend.save(function (err) {
                     if (err) {
-                        Error.log('error', 'del', ['Delete Friends', friend._id], err);
+                        logger.error('deleteFriendContainId ( %s ) %s', friend._id, err);
                         callback(err);
                     } else {
                         callback(err, friend);
@@ -78,7 +78,7 @@ module.exports = function (mongoose) {
             });
         friend.save(function (err) {
             if (err) {
-                Error.log('error', 'post', ['Create Friend', friend._id], err);
+                logger.error('createFriend ( %s ) %s', friend._id, err);
                 callback(err);
             } else {
                 callback(err, friend);
@@ -96,7 +96,7 @@ module.exports = function (mongoose) {
             
                 friend.save(function (err) {
                     if (err) {
-                        Error.log('error', 'post', ['Create Friends', friend._id], err);
+                        logger.error('saveFriend ( %s ) %s', friend._id, err);
                         callback(err);
                     } else {
                         callback(err, friend);

@@ -1,0 +1,24 @@
+<div ng-if="isLoggedIn">
+  <ng-include src="'partials/partial-nav.html'"> </ng-include>
+  <div class="recuerdos">
+    <div class="panel panel-primary" ng-repeat="memory in memories | orderBy: 'date' track by memory._id">
+      <div class="panel-heading">
+        <h3 class="panel-title">{{memory.date}}</h3>
+      </div>
+      <div class="panel-body">
+        <div class="media">
+          <a class="pull-left" href="#">
+            <img class="media-object" width="64" height="64" src="/img/perfil/foto.jpg" alt="Media Object">
+          </a>
+          <div class="media-body">
+            <h4 class="media-heading">Recuerdo cuando...</h4> {{memory.body}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div ng-if="!isLoggedIn">
+  <p>Necesita iniciar Sesión</p>
+  <a ui-sref="login">Volver</a>
+</div>
